@@ -1,2 +1,3 @@
 this is a great file
-lets do something interesting 
+
+i hope a conflict comes about 
